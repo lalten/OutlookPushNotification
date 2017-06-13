@@ -4,6 +4,10 @@ Push a Notification to your phone when you receive new emails
 ## Idea
 Your work outlook is only accessible through a proxy, in a VPN, on a virtual machine, on your work laptop. But you want your phone to tell you that there is new mail instead of manually checking in the VM every now and then. You build a tool that makes Outlook trigger a phone notification.
 
+| Before | After |
+| --- | --- |
+|![https://i.imgur.com/lbZWDcK.png](https://i.imgur.com/lbZWDcK.png)|![https://i.imgur.com/nDK9hdZ.png](https://i.imgur.com/nDK9hdZ.png)|
+
 ## Set up
 ### Set up Pushbullet
   1. Log in at [Pushbullet.com](https://www.pushbullet.com/)
